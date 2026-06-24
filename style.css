@@ -1,0 +1,21 @@
+body {
+        text-align:center;
+        background-color:plum;
+    }
+    p {
+        color:#007991; 
+        font-size:20px;
+    }
+    h1 {
+        color:hotpink;
+    }
+    a {
+        color:#ff7221;
+    }
+    .discord {
+        color:#ff7221; font-size:25px; margin:10px;
+    }
+
+    .backbutton {
+        color:#007991; background-color:#ff7221; padding:10px; text-decoration:none; margin-right:900px;
+    }
